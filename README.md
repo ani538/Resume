@@ -1,5 +1,5 @@
 # Resume
-Resume webpage build using HTML and CSS
+Resume Webpage build using HTML and CSS
 
  
     Here, we build a Resume webpage using HTML and CSS as a college assignment of Lab WEB TECHNOLOGY.
@@ -9,3 +9,5 @@ Resume webpage build using HTML and CSS
 
     ALSO, You can contribute to our web page 
     it is open for all contribution and Pull request foe HACTOBERFEST.
+
+ Thank you !!!
