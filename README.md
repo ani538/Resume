@@ -8,6 +8,6 @@ Resume Webpage build using HTML and CSS
     YOU CAN CLONE OUR REPOSITORY AND SUBMIT IT AS YOUR ASSINMENT BY MAKING CHANGES.
 
     ALSO, You can contribute to our web page 
-    it is open for all contribution and Pull request foe HACTOBERFEST.
+    It is open for all contribution and Pull request foe HACTOBERFEST.
 
  Thank you !!!
